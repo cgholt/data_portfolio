@@ -1,6 +1,6 @@
 # ****************************************\*\*\*\*****************************************
 
-## Project 1: Data cleaning & EDA case study
+## Data cleaning & EDA case study
 
 # ****************************************\*\*\*\*****************************************
 
@@ -20,7 +20,7 @@ derived from a published Clinical Trial, the following disclaimer
 applies in regard to the intent of use & results investigated while
 using this dataset:
 
-# ****************************************\*\*\*\*****************************************
+# ******************\*\*\*\*******************\*\*\*\*******************\*\*\*\*******************
 
 **The source of the data is the _The Juvenile Diabetes Research Foundation
 Continuous Glucose Monitoring Study Group_, but the analyses, content
