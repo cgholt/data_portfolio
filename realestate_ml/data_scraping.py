@@ -150,6 +150,7 @@ def coordFromAddress(address):
         querystring = {"benchmark":"Public_AR_Current","address": address,"format":"json"}
 
         headers = {
+            # Don't push key to git
             "X-RapidAPI-Key": "6262cbd686msh73cbc177a03db54p12cbc2jsn9a294af6563b",
             "X-RapidAPI-Host": "eec19846-geocoder-us-census-bureau-v1.p.rapidapi.com"
         }
